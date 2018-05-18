@@ -1,7 +1,7 @@
 
 # coding: utf-8
 
-# In[67]:
+# In[1]:
 
 
 # Option 1: PyBank
@@ -11,10 +11,10 @@ import csv
 input_data_1_csv = os.path.join("./", "budget_data_1.csv")
 input_data_2_csv = os.path.join("./", "budget_data_2.csv")
 
-files = [budget_data_1_csv, budget_data_2_csv]
+files = [input_data_1_csv, input_data_2_csv]
 
 
-# In[68]:
+# In[2]:
 
 
 for file in files:
