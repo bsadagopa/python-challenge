@@ -1,7 +1,9 @@
 # python-challenge
-Homework 3
+
+Homework 3:
+<br>
 4 cases:
-  PyBank
-  PyBoss
-  PyPoll
+  PyBank,
+  PyBoss,
+  PyPoll,
   PyParagraph
